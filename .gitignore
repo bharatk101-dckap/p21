@@ -256,7 +256,6 @@ dmypy.json
 .prof
 
 ./info.log
-config.py
 insert_logs.csv
 scheduler_logs.csv
 wrangle_logs.csv
